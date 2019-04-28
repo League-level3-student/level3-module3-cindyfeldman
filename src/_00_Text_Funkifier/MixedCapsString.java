@@ -11,5 +11,6 @@ public class MixedCapsString extends SpecialString{
 		
 		return "";
 	}
+	
 
 }
